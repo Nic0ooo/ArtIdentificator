@@ -1,0 +1,9 @@
+0 Picasso
+1 Juan Gris
+2 Georges Braque
+3 Monet
+4 August renoir
+5 Paul Cezanne
+6 Art abstrait
+7 Fauvisme
+8 Art Pop
