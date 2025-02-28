@@ -24,6 +24,9 @@ git clone https://github.com/Nic0ooo/ArtIdentificator.git
 ```
 
 Go to the folder of the app
+```bash
+cd ArtIdentificator
+```
 
 Install required dependencies with:
 
